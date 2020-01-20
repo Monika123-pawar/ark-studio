@@ -72,7 +72,7 @@ bady {
 
 /* header end */
 /* services */
-.services-wrapper {
+.services_wrapper {
   display: grid;
   margin-left: 200px;
   margin-right: 200px;
@@ -97,6 +97,8 @@ bady {
   grid-template-columns: 300px 300px 300px;
   list-style-type: none;
   padding: 30px;
+ 
+
 }
 
 #service-img {
@@ -231,7 +233,7 @@ bady {
   color: white;
   text-decoration: none;
 }
-.footer_widget > p {
+.rights {
   margin: auto;
 }
 /* footer end */
