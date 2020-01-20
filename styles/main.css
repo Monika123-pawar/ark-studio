@@ -175,7 +175,7 @@ bady {
   width: 150px;
   height: 60px;
 }
-.footer_widget {
+.footer {
   background-color: burlywood;
 }
 .footer_widget_cta {
@@ -188,7 +188,7 @@ bady {
   padding: 30px;
   color: white;
 }
-.footer_widget {
+.footer {
   background-color: rgba(17, 16, 16, 0.925);
   display: grid;
   list-style-type: none;
