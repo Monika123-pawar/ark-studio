@@ -72,7 +72,7 @@ bady {
 
 /* header end */
 /* services */
-.services_wrapper {
+.services{
   display: grid;
   margin-left: 200px;
   margin-right: 200px;
@@ -130,12 +130,12 @@ bady {
 /* recent work end */
 /* Testimonials */
 
-.testimonials {
+.testimonials  {
   display: grid;
   margin-left: 200px;
   margin-right: 200px;
 }
-.testimonials {
+.testimonials{
   background-color: whitesmoke;
 }
 #testimonials_items {
