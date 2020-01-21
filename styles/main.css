@@ -175,7 +175,7 @@ bady {
   width: 150px;
   height: 60px;
 }
-.footer_widget {
+#footer {
   background-color: burlywood;
 }
 .footer_widget_cta {
@@ -188,13 +188,13 @@ bady {
   padding: 30px;
   color: white;
 }
-.footer_widget {
+#footer {
   background-color: rgba(17, 16, 16, 0.925);
   display: grid;
   list-style-type: none;
   color: aliceblue;
 }
-#footer {
+.footer_widget {
   display: grid;
   grid-template-columns: 250px 250px 250px 250px;
   list-style-type: none;
@@ -202,23 +202,23 @@ bady {
   height: 200px;
   margin-left: 150px;
 }
-#footer > div {
+.footer_widget > div {
   width: 150px;
   padding: 20px;
 }
-#footer > div > i {
+.footer_widget > div > i {
   padding: 10px;
 }
-#footer > div > i:hover {
+.footer_widget > div > i:hover {
   color: rgb(255, 0, 98);
 }
-#footer > div > i:hover {
+.footer_widget > div > i:hover {
   color: rgb(255, 0, 98);
 }
-#footer > div > i before:hover {
+.footer_widget > div > i before:hover {
   color: rgb(255, 0, 98);
 }
-#footer > div > h4 {
+.footer_widget > div > h4 {
   padding-bottom: 20px;
 }
 #comp_list,
