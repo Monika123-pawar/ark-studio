@@ -18,6 +18,8 @@ bady {
   background-size: cover;
 }
 .nav_bar {
+  top: 0;
+  position: sticky;
   width: 100%;
   height: 80px;
   background-color: rgb(255, 245, 238, 0.5);
@@ -55,13 +57,16 @@ bady {
   height: 100px;
   background-color: rgb(255, 245, 238, 0.5);
   line-height: 80pxs;
+  
 }
 #cta_text {
-  padding: 40px;
+  padding: 10px;
+  font-size: 1.2em;
 }
 #cta_link {
-  float: right;
-  padding: 10px 40px;
+  float:  right;
+  margin-right: 10%;
+  padding: 10px 20px;
   background-color: rgb(68, 178, 221);
   color: white;
   text-decoration: none;
